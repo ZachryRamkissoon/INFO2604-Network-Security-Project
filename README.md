@@ -52,16 +52,6 @@ All networks are connected to the intranet via FastEthernet connections through 
 
 ---
 
-## My Contributions (Zachry Ramkissoon — 816036717)
-
-- Configured IP addresses across all devices and interfaces
-- Set up SSH access via CLI on the router/firewall
-- Configured the FTP server on the DMS network
-- Implemented **ACL 105** enforcing the DCIT network policies
-- Conducted all policy verification tests and captured screenshots
-
----
-
 ## Screenshots
 
 All policy verification screenshots are included in this repository:
