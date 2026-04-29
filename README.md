@@ -75,7 +75,6 @@ All policy verification screenshots are included in this repository:
 ## Files
 
 - `ISS_Project.pkt` — Cisco Packet Tracer project file (open to view full configuration)
-- `documentation.txt` — Group member contributions
 - `Policy *.png` — Verification screenshots for each policy
 
 ---
